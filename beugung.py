@@ -8,7 +8,7 @@ import math
 """
 Created on Thu May 20 18:50:54 2021
 
-@author: semibroiledpotato
+@author: semibroiled
 """
 
 """ 
