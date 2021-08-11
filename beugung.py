@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 import math
-#from wave-fcn import wavelength
+from wavefcn import wavelength
+from wavefcn import gitterkonstant
 
 
 
