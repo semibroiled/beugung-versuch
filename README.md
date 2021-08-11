@@ -2,6 +2,10 @@
 ## Versuch 🔬 - TU Darmstadt
 ___________________________
 
+##### _Created on Thu May 20 18:50:54 2021_
+
+##### _@author: semibroiled_
+
 ### Abstract 
 
 The purpose of this project is to create functions to quickly and efficiently calculate _wavelength_ and _distance_ measurements in accordance to the 
