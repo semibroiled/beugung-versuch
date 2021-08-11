@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*-
 
 
-from wavelength import wavelength
-from gitterkonstant import gitterkonstant
+from beugungo5 import wavelength.wavelength as wavelength
+from beugungo5 import gitterkonstant.gitterkonstant as gitterkonstant
+
 
 
 
