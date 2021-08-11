@@ -11,6 +11,8 @@ def gitterkonstant(wave_lambda=532, m=1):
 
 
     """
+    import math
+    
     #inputs
 
     try:

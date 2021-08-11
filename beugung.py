@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import math
-from wavefcn import wavelength
-from wavefcn import gitterkonstant
+
+from beugungo5 import wavelength.wavelength as wavelength
+from beugungo5 import gitterkonstant.gitterkonstant as gitterkonstant
+
 
 
 
