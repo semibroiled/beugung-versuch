@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import math
-from wavefcn import wavelength
-from wavefcn import gitterkonstant
+
+from wavelength import wavelength
+from gitterkonstant import gitterkonstant
 
 
 

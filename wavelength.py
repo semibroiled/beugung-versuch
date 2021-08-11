@@ -1,4 +1,7 @@
 def wavelength(d_proj=1, m=1):
+
+    import math
+    
     """
     Relevant to solve Exercise 4 in Beugung O5 Experiment
     Give all units in meters, m
